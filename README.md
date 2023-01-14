@@ -20,7 +20,7 @@ RefundRotationSalts is a mod made with BepInEx for use with the Potion Craft gam
 ## Cheatmode
 With cheatmode enabled, the game will add both sun and moon salt to your inventory, equal to the amount removed. It is disabled by default. It can be enabled/disabled by doing the following:
 1) Close PotionCraft.
-2) Open `/Potion Craft/BepInEx/configs/RefundRotationStals.cfg`.
+2) Open `/Potion Craft/BepInEx/config/RefundRotationSalts.cfg`.
 3) Under `[General]`, change the value assigned to `Refund salt`
     - To enable cheatmode, set the value to `true` (eg `Refund salt = true`)
     - To disable cheatmode, set the value to `false` (eg `Refund salt = false`)
