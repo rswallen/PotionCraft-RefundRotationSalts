@@ -2,6 +2,8 @@
 
 RefundRotationSalts is a mod made with BepInEx for use with the Potion Craft game. It will remove moon salt from the recipe of a potion if you add sun salt *immediately* afterwards (and vice versa). Cheatmode (activated by modifying the config) will add both sun and moon salt to your inventory, equal to the amount removed.
 
+Credit to @aCDRph3rr3t_Is_RunningAmok#6770 on the PotionCraft discord for coming up with the idea.
+
 ## Installation
 
 ### BepInEx
